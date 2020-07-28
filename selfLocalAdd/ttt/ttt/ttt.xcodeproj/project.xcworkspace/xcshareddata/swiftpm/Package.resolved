@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftWrapper",
+        "repositoryURL": "/Users/yen/Desktop/t/SwiftWrapper",
+        "state": {
+          "branch": null,
+          "revision": "f507ba99d7fb94fbd46ba2fd4eed4e4490af7d12",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

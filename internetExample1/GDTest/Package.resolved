@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cgd",
+        "repositoryURL": "/Users/yen/Desktop/Cgd",
+        "state": {
+          "branch": null,
+          "revision": "dac414063aa23f23f1c75bfd439e8056189d8f93",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "SwiftGD",
+        "repositoryURL": "/Users/yen/Desktop/SwiftGD",
+        "state": {
+          "branch": null,
+          "revision": "1f177e7601b97ef369c66f7473c3715516617995",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
