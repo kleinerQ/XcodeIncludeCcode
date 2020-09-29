@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Sw",
+        "repositoryURL": "/Users/yen/Desktop/XcodeIncludeCcode/LTCprj_originalAudioFormat/Sw",
+        "state": {
+          "branch": null,
+          "revision": "c5ccdc9dbe30a06a5529d8d730a92384f0f6ef6e",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
